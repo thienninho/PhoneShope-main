@@ -9,6 +9,7 @@
 	<c:redirect url="/LoadProduct"/>
 
     <p>Hello concac</p>
+    <p> alo</p>
 
 
 </body>
